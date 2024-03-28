@@ -1,0 +1,60 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #a4261d, #d91c1f);
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.teampic {
+  height: 40px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.latest-heading {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.details {
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  height: 50px;
+  width: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.left-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+.capitals {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+.date {
+  color: #ffffff;
+  font-size: 18px;
+}
+.right-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}

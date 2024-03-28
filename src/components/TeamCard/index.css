@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.team-container {
+  list-style-type: none;
+  width: 50%;
+}
+.link {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  height: 85%;
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  text-decoration: none;
+  padding-left: 7px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 7px;
+  margin-left: 8px;
+  margin-bottom: 24px;
+  margin-right: 8px;
+}
+.team-heading {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.team-logo {
+  height: 40px;
+  width: 40px;
+}
